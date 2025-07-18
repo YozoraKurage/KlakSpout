@@ -5,9 +5,9 @@
   "displayName": "KlakSpout",
   "keywords": [ "unity" ],
   "license": "Unlicense",
-  "name": "jp.keijiro.klak.spout",
-  "repository": "github:keijiro/KlakSpout",
+  "name": "net.yozolab.klakspout",
+  "repository": "github:yozorakurage/KlakSpout",
   "unity": "2020.3",
   "unityRelease": "1f1",
-  "version": "2.0.3"
+  "version": "2.0.4"
 }
